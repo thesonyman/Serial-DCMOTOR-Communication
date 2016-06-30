@@ -1,6 +1,6 @@
 # Serial-DCMOTOR-Communication
 
-This doesnt curretly work but it might soon. :)
+The code compiles but I havent gotten it to work yet. :)
 Basicly since serial only has one output pin we have to cheat to get to modes. Since it can be in two states ON/OFF 
 this is simple to do with a arduino.
 So I take the output pin on the serial connecter and connect it to pin 8 which is set to input.
